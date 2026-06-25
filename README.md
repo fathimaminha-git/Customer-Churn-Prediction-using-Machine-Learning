@@ -5,14 +5,14 @@ This project focuses on predicting customer churn by identifying customers who a
 🛠 Tech Stack
 Language: Python
 
-Libraries: Pandas
-           NumPy
-           Scikit-learn
-           Matplotlib
-           Seaborn
+Libraries: Pandas,
+           NumPy,
+           Scikit-learn,
+           Matplotlib,
+           Seaborn,
 
-Models: Logistic Regression
-        Random Forest
+Models: Logistic Regression,
+        Random Forest,
 
 📊 Project Workflow
 Cleaned and prepared the dataset by handling outliers, encoding features, and scaling data
